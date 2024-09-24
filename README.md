@@ -36,4 +36,6 @@ git version
 * up: this start the container. if they don't exist yet, it will create them.
 * --build: rebuild the image before starting.
 
+## View the website http://127.0.0.1:8000
+
 
