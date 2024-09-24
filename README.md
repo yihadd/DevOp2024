@@ -32,7 +32,7 @@ git version
 1. Build the Docker images.
 2. Create and start the containers.
 * docker compose: use to manage multi-container docker application defind in >> docker-compose.ylm file
-##### docker-compose.yml >> this file use to define and manage multi-container Docker application >> it allow you to describe the container, network, volumes.
+* ##### docker-compose.yml >> this file use to define and manage multi-container Docker application >> it allow you to describe the container, network, volumes.
 * up: this start the container. if they don't exist yet, it will create them.
 * --build: rebuild the image before starting.
 
