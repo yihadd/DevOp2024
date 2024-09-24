@@ -27,4 +27,13 @@ git version
 ![8](https://github.com/user-attachments/assets/3587e989-178c-47ab-83c8-608cfce002c5)
 #### This command specifies what to run when the container starts. In this case, it runs the Django development server (manage.py runserver).
 
+# Docker Image.
+![9](https://github.com/user-attachments/assets/70351c7a-3478-4b03-a2a7-53ac3bbcfdae)
+1. Build the Docker images.
+2. Create and start the containers.
+## docker compose ## 
+* use to manage multi-container docker application defind in >> docker-compose.ylm file
+* ## up ## this start the container. if they don't exist yet, it will create them.
+* ## --build ## rebuild the image before starting.
+
 
