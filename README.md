@@ -3,10 +3,10 @@
 
 
 # Dependency
-Docker 
-Django
-Python
-git version
+- Docker 
+- Django
+- Python
+- git version
 
 
 ## Dockerfile
